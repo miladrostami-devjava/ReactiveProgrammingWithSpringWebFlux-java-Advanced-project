@@ -8,6 +8,8 @@ public class ReactiveSpringwebfluxProductsManagementProjectApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ReactiveSpringwebfluxProductsManagementProjectApplication.class, args);
+		System.out.println("Hello Spring WebFlux");
+
 	}
 
 }
